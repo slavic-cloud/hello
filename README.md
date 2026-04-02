@@ -1,6 +1,3 @@
-# hello
-pubg
-
 <!DOCTYPE html>
 <html lang="ro">
 <head>
